@@ -1,0 +1,3 @@
+[submodule "src/app/widgets"]
+	path = src/app/widgets
+	url = git@github.com:PandoraArc/widgets.git
